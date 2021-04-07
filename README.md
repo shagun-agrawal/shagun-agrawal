@@ -22,5 +22,14 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="50"/>
 </p>
+<h3>Development tools and frameworks:</h3>
+<p>
+  <img src="" alt="html5" width="50" height="60"/> 
+  <img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" alt="html5" width="50" height="60"/> 
+  <img src="" alt="html5" width="50" height="60"/> 
+  <img src="" alt="html5" width="50" height="60"/> 
+  <img src="" alt="html5" width="50" height="60"/> 
+  <img src="" alt="html5" width="50" height="60"/> 
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun-agrawal&langs_count=7&layout=compact&theme=onedark" alt="shagun-agrawal">
