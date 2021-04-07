@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/html.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/css.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/bootstrap.gif" alt="html5" width="50" height="60"/> 
-  <img src="" alt="html5" width="50" height="60"/> 
+  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/react.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/django.png" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/node.gif" alt="html5" width="50" height="60"/> 
 </p>
