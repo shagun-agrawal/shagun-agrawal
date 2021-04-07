@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="right" src="https://komarev.com/ghpvc/?username=shagun-agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="tush-tr" width="100" /></p><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun-agrawal&langs_count=7&layout=compact&theme=onedark" alt="shagun-agrawal">
