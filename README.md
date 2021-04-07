@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun-agrawal&hide=issues&show_icons=true&theme=onedark)
-
+<h2>Skills</h2>
+<p> 
+<img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/master/res/js.gif" height="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="50"/>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun-agrawal&langs_count=7&layout=compact&theme=onedark" alt="shagun-agrawal">
