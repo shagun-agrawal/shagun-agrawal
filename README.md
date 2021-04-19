@@ -27,6 +27,7 @@
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/react.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/django.png" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/node.gif" alt="html5" width="50" height="60"/> 
+  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/Gir.gif" alt="html5" width="50" height="60"/> 
 </p>
 
 
