@@ -28,6 +28,6 @@
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/django.png" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/node.gif" alt="html5" width="50" height="60"/> 
 </p>
-<img src="https:/https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="html5" width="50" height="60"/> 
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun-agrawal&langs_count=7&layout=compact&theme=onedark" alt="shagun-agrawal">
