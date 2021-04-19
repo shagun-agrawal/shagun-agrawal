@@ -12,7 +12,8 @@
 
 <h2>About Me</h2>  
 -> I'm Shagun Agrawal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing  and the backend coding etc.
-<p align="left"><strong>Find me on</strong><br>
+<h2>find Me On</h2>  
+<p align="left">
   <a href="https://www.linkedin.com/in/vaibhav-karnwal/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="vaibhavkarnwal2812@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://trorstphpuskxi3cchfhdg-on.drv.tw/www.myportfolio.com/" target="_blank"><img align="center" alt="portfolio" src="https://img.shields.io/badge/portfolio-gray.svg?&style=for-the-badge&logoColor=white" /></a>
