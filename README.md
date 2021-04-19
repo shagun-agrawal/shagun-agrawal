@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Welcome geek </h1>
+<h1>Welcome geek, Wonder to see you here</h1>
 
 
 
@@ -9,7 +9,12 @@
 - 🥅 2021 Goals: Hired by any MNC
 - 📫 How to reach me: Through my linkedin
 - ⚡ Strength: Smart and fast learner and always ready to learn new things (I beleive in writing my own story sgn...)
--->
+
+
+
+I'm Vaibhav Karnwal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing and Android Designing, creating mockups , prototypes 
+etc.
+
 ![shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun-agrawal&hide=issues&show_icons=true&theme=onedark)
 <h2>Skills</h2>
 <p> 
