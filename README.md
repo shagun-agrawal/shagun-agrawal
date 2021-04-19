@@ -12,7 +12,7 @@
 
 <h2>About Me</h2>  
 -> I'm Shagun Agrawal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing  and the backend coding etc.
-<h1></h1>
+<h1>Github Status</h1>
 
 ![shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun-agrawal&hide=issues&show_icons=true&theme=onedark)
 
@@ -22,7 +22,7 @@
   <a href="https://trorstphpuskxi3cchfhdg-on.drv.tw/www.myportfolio.com/" target="_blank"><img align="center" alt="portfolio" src="https://img.shields.io/badge/portfolio-gray.svg?&style=for-the-badge&logoColor=white" /></a>
 </p>
 <p align="right">⚡️<strong>Total Profile Hits</strong>⚡️<br>
-<img src="https://profile-counter.glitch.me/vaibhav-karnwal/count.svg" />
+<img src="https://profile-counter.glitch.me/shagun-agrawal/count.svg" />
 <p> 
 <h2>Skills</h2>
 <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/js.gif" height="70">
