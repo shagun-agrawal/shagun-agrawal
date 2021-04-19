@@ -36,4 +36,4 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun-agrawal&langs_count=7&layout=compact&theme=onedark" alt="shagun-agrawal">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun-agrawal&langs_count=7&layout=compact&theme=onedark" alt="shagun-agrawal" width="500">
