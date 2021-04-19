@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-<h1>Welcome geek <img 
+<h1>Welcome geek </h1>
 
 
 
-- 🔭 I’m currently working internship in Ranawaj Power Solution Private Limited
+- 🔭 I’m currently doing internship in Ranawaj Power Solution Private Limited
 - 🌱 I’m currently working with Django FrameWork
-- 🤔 I’m looking for help with ...
 - 🥅 2021 Goals: Hired by any MNC
 - 📫 How to reach me: Through my linkedin
 - ⚡ Strength: Smart and fast learner and always ready to learn new things (I beleive in writing my own story sgn...)
