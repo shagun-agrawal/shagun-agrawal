@@ -3,8 +3,6 @@
 <h1>Welcome geek <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 , Wonder to see you here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!!! </h1>
 
-
-
 - 🔭 I’m currently doing internship in Ranawaj Power Solution Private Limited
 - 🌱 I’m currently working with Django FrameWork
 - 🥅 2021 Goals: Hired by any MNC
@@ -12,11 +10,8 @@
 - ⚡ Strength: Smart and fast learner and always ready to learn new things (I beleive in writing my own story sgn...)
 
 
-
 <h2>About Me</h2>  
 -> I'm Shagun Agrawal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing  and the backend coding etc.
-
-
 
 
 ![shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun-agrawal&hide=issues&show_icons=true&theme=onedark)
