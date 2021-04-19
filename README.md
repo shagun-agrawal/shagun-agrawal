@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/js.gif" height="70">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="70"/>
 </p>
 <h3>Development tools and frameworks:</h3>
 <p>
