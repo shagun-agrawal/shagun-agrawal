@@ -14,16 +14,15 @@
 -> I'm Shagun Agrawal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing  and the backend coding etc.
 <h1>Github Status</h1>
 
-![shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun-agrawal&hide=issues&show_icons=true&theme=onedark)
-
 <p align="left"><strong>Find me on</strong><br>
   <a href="https://www.linkedin.com/in/vaibhav-karnwal/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="vaibhavkarnwal2812@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://trorstphpuskxi3cchfhdg-on.drv.tw/www.myportfolio.com/" target="_blank"><img align="center" alt="portfolio" src="https://img.shields.io/badge/portfolio-gray.svg?&style=for-the-badge&logoColor=white" /></a>
-</p>
-<p align="right">⚡️<strong>Total Profile Hits</strong>⚡️<br>
-<img src="https://profile-counter.glitch.me/shagun-agrawal/count.svg" />
-<p> 
+</p> 
+
+![shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun-agrawal&hide=issues&show_icons=true&theme=onedark)
+
+
 <h2>Skills</h2>
 <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/js.gif" height="70">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
