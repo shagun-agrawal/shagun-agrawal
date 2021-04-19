@@ -14,7 +14,7 @@
 -> I'm Shagun Agrawal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing  and the backend coding etc.
 <h2>find Me On</h2>  
 <p align="left">
-  <a href="https://www.linkedin.com/in/shagun-agrawal/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shagun-agrawal-9941b1192/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="shagunagrawal0123@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 </p> 
