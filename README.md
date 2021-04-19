@@ -2,10 +2,10 @@
 
 <h1>Welcome geek <img 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working internship on Ranawaj Power Solution Private Limited
-- 🌱 I’m currently learning Django FrameWork
+
+- 🔭 I’m currently working internship in Ranawaj Power Solution Private Limited
+- 🌱 I’m currently working with Django FrameWork
 - 🤔 I’m looking for help with ...
 - 🥅 2021 Goals: Hired by any MNC
 - 📫 How to reach me: Through my linkedin
@@ -28,5 +28,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/django.png" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/node.gif" alt="html5" width="50" height="60"/> 
 </p>
+<img src="https:/https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="html5" width="50" height="60"/> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun-agrawal&langs_count=7&layout=compact&theme=onedark" alt="shagun-agrawal">
