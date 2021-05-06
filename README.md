@@ -38,7 +38,7 @@
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/django.png" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/node.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/Gir.gif" alt="html5" width="85" height="60"/> 
-  
+  <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="html5" width="85" height="60"/> 
 </p>
 
 
