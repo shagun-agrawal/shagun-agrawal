@@ -28,7 +28,7 @@
 <h2>Skills</h2>
 <p>
 <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/js.gif" height="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="html5" width="65" height="75"/> 
-  alt="c"height="70"/>
+  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="html5" width="65" height="75"/> 
 </p>
 <h3>Development tools and frameworks:</h3>
